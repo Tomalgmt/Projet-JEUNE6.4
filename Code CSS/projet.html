@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+    <head>
+        <title>référent</title>
+        <link rel="stylesheet" type="text/css" href="css.css">
+        <script type="text/javascript" src="javascript.js"></script>
+    </head>
+
+    <body>
+    <div class="banniere">
+        <img src="logoprojetjeunes6_4/LOGOS_JEUNES_1.png">
+        <div class="bannieretexte">
+            <h1 style="text-align: right;">REFERENT</h1>
+            <h2 style="text-align: right;">Je donne la valeur à mon engagement</h2>
+         </div>
+    </div>
+    <div class="liens">
+        <a class="Jeunebutton" href="Jeune.php">JEUNE</a>
+        <div class="Référentbuttonpage">
+            <p class="Référentbutton">REFERENT</p>
+        </div>
+        <a class="Consultantbutton" href="Consultant.php">CONSULTANT</a>
+        <a class="Partenairebutton" href="Partenaires.php">PARTENAIRE</a>
+    </div>
+
+
+
+
+
+    <p style="text-align: center;">Confirmez cette expérience et ce que vous avez pu constater au contact de ce jeune.</p>
+    
+
+
+    <div class="formulaires">
+        <form method="post" action="acceuil.php" id="form">
+
+            <div class="comm">
+                <p>Commentaire:<input type="textaera" name="textaera"></p>
+            </div>
+    
+            <div class="info">
+                <p class="inputtext">NOM:<input type="text" name="Name" required></p>
+                <p class="inputtext">PRENOM:<input type="text" name="PRENOM" required></p>
+                <p class="inputtext">DATE DE NAISSANCE:<input type="text" name="date" required></p>
+                <p class="inputtext">Mail:<input type="text" name="mail" required></p>
+                <p class="inputtext">Réseau social:<input type="text" name="rs" ></p>
+                <br><br>
+                <p class="inputtext">PRESENTATION:<input type="text" name="present" ></p>
+                <p class="inputtext">DUREE:<input type="text" name="duree" ></p>
+            </div>
+
+            <div class="savoir">
+                <p><input type="checkbox" name="conf" onclick="limiterCasesCochees()">Confiance</p>
+                <p><input type="checkbox" name="bienve" onclick="limiterCasesCochees()">Bienveillance</p>
+                <p><input type="checkbox" name="resp" onclick="limiterCasesCochees()">Respect</p>
+                <p><input type="checkbox" name="honne" onclick="limiterCasesCochees()">Honnetete</p>
+                <p><input type="checkbox" name="tolé" onclick="limiterCasesCochees()">Tolérance</p>
+                <p><input type="checkbox" name="juste" onclick="limiterCasesCochees()">Juste</p>
+                <p><input type="checkbox" name="impar" onclick="limiterCasesCochees()">Impartial</p>
+                <p><input type="checkbox" name="travail" onclick="limiterCasesCochees()">Travail</p>
+            </div>
+
+            <div class="vailder">
+                <p>*Faire 4 choix maximum</p>
+                <p><input type="submit" >Valider</p>
+            </div>
+        </form>
+    </div>
+
+    </body>
+</html>
