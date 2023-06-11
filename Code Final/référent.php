@@ -12,7 +12,7 @@
     <body>
     <!-- On divise la bannière en plusieurs div pour faciliter le css-->
     <div class="banniere">
-        <img src="LOGOS_JEUNES_1.png"><!-- le logo -->
+        <img src="images/LOGOS_JEUNES_1.png"><!-- le logo -->
         <div class="bannieretexteréférent">
             <h1 style="text-align: right;">REFERENT</h1>  <!-- le nom du module -->
         </div>
