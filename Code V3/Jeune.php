@@ -148,6 +148,10 @@ $mailjeune = $_SESSION["mail"];
                 );
 
                 $user["user"]['referencements'][] = $nouveauReferencement;
+                
+                //mail( $_POST["mailreferent"] , 'Validation de reference de :'. $_POST["nomjeune"] . " " . $_POST["prenomjeune"], "Bonjour,\r\n\r\n pouvez vous valider ma demande de reference \n\n http://localhost:8080/référent.php?mail1=" . $_POST['mailjeune'] . "&mail2=" . $_POST['mailreferent'] );
+                //etant en serveur local, nous ne pouvons pas envoyer de mail mais je laisse quand meme la fonction ici
+                // les variables mail1 et mail2 seront recuperées par la methode $GET sur la page référent.php
                 break; // Sortir de la boucle une fois que le référencement est ajouté
             }
         }
