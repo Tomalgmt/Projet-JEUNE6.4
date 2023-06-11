@@ -1,0 +1,251 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+html {
+  font-size: calc(15px + 0.390625vw);
+}
+
+html { font-size: 62.5%; }
+body { font-size: 1em;}
+
+@media (max-width: 300px) {
+    html { font-size: 70%; }
+  img{
+  width:40%;
+ } 
+}
+
+@media (min-width: 500px) {
+    html { font-size: 80%; }
+  img{
+  width:50%;
+ } 
+}
+
+@media (min-width: 700px) {
+    html { font-size: 120%; }
+  img{
+  width:60%;
+ } 
+}
+
+@media (min-width: 1200px) {
+    html { font-size: 200%; }
+  img{
+  width:100%;
+ } 
+}
+
+input[type="text"]:focus {
+  outline: none;
+}
+
+/*-------------------------------------BANNIERE----------------------------------------*/
+
+#head_title {
+    background: linear-gradient(to top right, white,rgb(202, 202, 202) 40%) ;
+    padding: 1%;
+    display: flex;
+}
+
+.head_text {
+     font-weight: 0;
+    font-size: 1.2rem;
+    right: 0;
+    margin-right: 2%;
+    margin-top: 2%;
+    font-family: Arial;
+    text-align: right;
+    color: white;
+    line-height: 2rem;
+    letter-spacing: .2rem;
+    position: absolute;
+}
+
+.page_title{
+  color: deeppink;
+  font-size: 3rem;
+  letter-spacing: 10%;
+}
+
+/*------------------------------------SOUS-TITRE-----------------------------------------*/
+
+#sub_title {
+    display: flex;
+    margin-left: 30%;
+    margin-right: 30%;
+    background: linear-gradient(to bottom right, white,rgb(202, 202, 202)) ;
+    align-items: center;
+    font-family: Arial;
+    padding: 1%;
+    font-size: 0.65rem;
+}
+
+.Jeune{
+    margin-right: 2%;
+    margin-left: 2%;
+     background-color: deeppink;
+    background-size: 30% 30%;
+    color: white;
+    text-decoration:none;
+    padding: 0.5%;
+}
+
+
+
+.Référent{
+    margin-right: 2%;
+    margin-left: 2%;
+    color: green;
+    text-decoration:none;
+}
+
+.Référent:hover{
+    background-color: green;
+    color:white;
+    padding: 0.5%;
+}
+
+.Consultant{
+    margin-right: 2%;
+    margin-left: 2%;
+    color:rgb(5, 172, 194);
+    text-decoration:none;
+}
+
+.Consultant:hover{
+    background-color: rgb(5, 172, 194);
+    color:white;
+    padding: 0.5%;
+}
+
+.Partenaire{
+    margin-right: 2%;
+    margin-left: 2%;
+    color: gray;
+    text-decoration:none;
+}
+
+.Partenaire:hover{
+    background-color: gray;
+    color:white;
+    padding: 0.5%;
+}
+
+
+/*--------------------------ACTIONS-----------------------------*/
+
+a {
+  text-decoration: none;
+}
+
+.actions_jeunes1{
+  display: flex;
+  margin-left: 17.5%;
+  margin-right: 10%;
+  text-align: center;
+  font-family: Arial;
+  align-items: center;
+  
+}
+
+.actions_jeunes2{
+  display: flex;
+  margin-left: 28%;
+  margin-right: 20%;
+  margin-bottom: 10%;
+  text-align: center;
+  font-family: Arial;
+  align-items: center;
+  
+}
+
+.demande {
+  height: 10rem;
+  width: 10rem;
+  border: solid lightgray 2px;
+}
+
+.demande img {
+  width: 80%;
+}
+
+.consultation {
+  height: 10rem;
+  width: 10rem;
+  border: solid lightgray 2px;
+}
+
+.consultation img {
+  width: 70%;
+}
+
+.envoi {
+  height: 10rem;
+  width: 10rem;
+  border: solid lightgray 2px;
+}
+
+.envoi img {
+  width: 80%;
+}
+
+.inclure {
+  height: 10rem;
+  width: 10rem;
+  border: solid lightgray 2px;
+}
+
+.inclure img {
+  width: 70%;
+}
+
+.profil {
+  height: 10rem;
+  width: 10rem;
+  border: solid lightgray 2px;
+}
+
+.profil img {
+  width: 80%;
+}
