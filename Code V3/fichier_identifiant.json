@@ -1,0 +1,329 @@
+[
+    {
+        "user": {
+            "mail": "salut@gmail.com",
+            "motdepasse": "$2y$10$C.X6VIpMi\/xyID\/BPdUytev08saiKnVsAKwGXcWgPI5P\/e5rhY7wq",
+            "nom": "a",
+            "prenom": "a",
+            "date_naissance": "2023-06-15",
+            "social": null,
+            "referencements": [
+                {
+                    "referent": {
+                        "nom": "ded",
+                        "prenom": "dede",
+                        "date": "2023-05-31",
+                        "mail": "dede@gmail.com",
+                        "social": "dede",
+                        "present": "ded",
+                        "duree": "zdz"
+                    },
+                    "jeune": {
+                        "nom": "",
+                        "prenom": "",
+                        "date": "",
+                        "mail": "salut@gmail.com",
+                        "social": "",
+                        "present": "",
+                        "duree": ""
+                    },
+                    "valid": null
+                },
+                {
+                    "referent": {
+                        "nom": "cded",
+                        "prenom": "fefe",
+                        "date": "2023-06-07",
+                        "mail": "dede@gmail.com",
+                        "social": "dede",
+                        "present": "dzdz",
+                        "duree": "zdz"
+                    },
+                    "jeune": {
+                        "nom": "",
+                        "prenom": "",
+                        "date": "",
+                        "mail": "salut@gmail.com",
+                        "social": null,
+                        "present": null,
+                        "duree": null
+                    },
+                    "valid": null
+                },
+                {
+                    "referent": {
+                        "nom": "cded",
+                        "prenom": "fefe",
+                        "date": "2023-06-07",
+                        "mail": "dede@gmail.com",
+                        "social": "dede",
+                        "present": "dzdz",
+                        "duree": "zdz"
+                    },
+                    "jeune": {
+                        "nom": "",
+                        "prenom": "",
+                        "date": "",
+                        "mail": "salut@gmail.com",
+                        "social": "",
+                        "present": "",
+                        "duree": ""
+                    },
+                    "valid": null
+                },
+                {
+                    "referent": {
+                        "nom": "ded",
+                        "prenom": "fefe",
+                        "date": "2023-05-31",
+                        "mail": "dede@gmail.com",
+                        "social": "fefef",
+                        "present": "dzdz",
+                        "duree": "zdz"
+                    },
+                    "jeune": {
+                        "nom": "",
+                        "prenom": "",
+                        "date": "",
+                        "mail": "salut@gmail.com",
+                        "social": "",
+                        "present": "",
+                        "duree": ""
+                    },
+                    "valid": null
+                },
+                {
+                    "referent": {
+                        "nom": "ded",
+                        "prenom": "fefe",
+                        "date": "2023-05-31",
+                        "mail": "dede@gmail.com",
+                        "social": "fefef",
+                        "present": "dzdz",
+                        "duree": "zdz"
+                    },
+                    "jeune": {
+                        "nom": "",
+                        "prenom": "",
+                        "date": "",
+                        "mail": "salut@gmail.com",
+                        "social": null,
+                        "present": null,
+                        "duree": null
+                    },
+                    "valid": null
+                },
+                {
+                    "referent": {
+                        "nom": "ded",
+                        "prenom": "fefe",
+                        "date": "2023-05-31",
+                        "mail": "dede@gmail.com",
+                        "social": "fefef",
+                        "present": "dzdz",
+                        "duree": "zdz"
+                    },
+                    "jeune": {
+                        "nom": "",
+                        "prenom": "",
+                        "date": "",
+                        "mail": "salut@gmail.com",
+                        "social": null,
+                        "present": null,
+                        "duree": null
+                    },
+                    "valid": null
+                },
+                {
+                    "referent": {
+                        "nom": "ded",
+                        "prenom": "fefe",
+                        "date": "2023-05-31",
+                        "mail": "dede@gmail.com",
+                        "social": "fefef",
+                        "present": "dzdz",
+                        "duree": "zdz"
+                    },
+                    "jeune": {
+                        "nom": "",
+                        "prenom": "",
+                        "date": "",
+                        "mail": "salut@gmail.com",
+                        "social": null,
+                        "present": null,
+                        "duree": null
+                    },
+                    "valid": null
+                },
+                {
+                    "referent": {
+                        "nom": "ded",
+                        "prenom": "fefe",
+                        "date": "2023-05-31",
+                        "mail": "dede@gmail.com",
+                        "social": "fefef",
+                        "present": "dzdz",
+                        "duree": "zdz"
+                    },
+                    "jeune": {
+                        "nom": "",
+                        "prenom": "",
+                        "date": "",
+                        "mail": "salut@gmail.com",
+                        "social": null,
+                        "present": null,
+                        "duree": null
+                    },
+                    "valid": null
+                },
+                {
+                    "referent": {
+                        "nom": "ded",
+                        "prenom": "fefe",
+                        "date": "2023-05-31",
+                        "mail": "dede@gmail.com",
+                        "social": "fefef",
+                        "present": "dzdz",
+                        "duree": "zdz"
+                    },
+                    "jeune": {
+                        "nom": "",
+                        "prenom": "",
+                        "date": "",
+                        "mail": "salut@gmail.com",
+                        "social": null,
+                        "present": null,
+                        "duree": null
+                    },
+                    "valid": null
+                },
+                {
+                    "referent": {
+                        "nom": "ded",
+                        "prenom": "fefe",
+                        "date": "2023-05-31",
+                        "mail": "dede@gmail.com",
+                        "social": "fefef",
+                        "present": "dzdz",
+                        "duree": "zdz"
+                    },
+                    "jeune": {
+                        "nom": "",
+                        "prenom": "",
+                        "date": "",
+                        "mail": "salut@gmail.com",
+                        "social": "",
+                        "present": "",
+                        "duree": ""
+                    },
+                    "valid": null
+                },
+                {
+                    "referent": {
+                        "nom": "cded",
+                        "prenom": "dede",
+                        "date": "2023-05-31",
+                        "mail": "dede@gmail.com",
+                        "social": "dede",
+                        "present": "dzdz",
+                        "duree": "zdz"
+                    },
+                    "jeune": {
+                        "nom": "",
+                        "prenom": "",
+                        "date": "",
+                        "mail": "salut@gmail.com",
+                        "social": "",
+                        "present": "",
+                        "duree": ""
+                    },
+                    "valid": null
+                },
+                {
+                    "referent": {
+                        "nom": "cded",
+                        "prenom": "dede",
+                        "date": "2023-05-31",
+                        "mail": "dede@gmail.com",
+                        "social": "dede",
+                        "present": "dzdz",
+                        "duree": "zdz"
+                    },
+                    "jeune": {
+                        "nom": "",
+                        "prenom": "",
+                        "date": "",
+                        "mail": "salut@gmail.com",
+                        "social": "dede",
+                        "present": "ded",
+                        "duree": "cfezfzef"
+                    },
+                    "valid": null
+                },
+                {
+                    "referent": {
+                        "nom": "ded",
+                        "prenom": "fefe",
+                        "date": "2023-06-21",
+                        "mail": "dede@gmail.com",
+                        "social": "dede",
+                        "present": "dzdz",
+                        "duree": "zdz"
+                    },
+                    "jeune": {
+                        "nom": "",
+                        "prenom": "",
+                        "date": "",
+                        "mail": "salut@gmail.com",
+                        "social": "dede",
+                        "present": "ded",
+                        "duree": "dzd"
+                    },
+                    "valid": null
+                },
+                {
+                    "referent": {
+                        "nom": "ded",
+                        "prenom": "fefe",
+                        "date": "2023-06-21",
+                        "mail": "dede@gmail.com",
+                        "social": "dede",
+                        "present": "dzdz",
+                        "duree": "zdz"
+                    },
+                    "jeune": {
+                        "nom": "a",
+                        "prenom": "a",
+                        "date": null,
+                        "mail": "salut@gmail.com",
+                        "social": "dede",
+                        "present": "ded",
+                        "duree": "dzd"
+                    },
+                    "valid": null
+                },
+                {
+                    "referent": {
+                        "nom": "ded",
+                        "prenom": "fefe",
+                        "date": "2023-06-21",
+                        "mail": "dede@gmail.com",
+                        "social": "dede",
+                        "present": "dzdz",
+                        "duree": "zdz"
+                    },
+                    "jeune": {
+                        "nom": "a",
+                        "prenom": "a",
+                        "date": null,
+                        "mail": "salut@gmail.com",
+                        "social": "dede",
+                        "present": "ded",
+                        "duree": "dzd"
+                    },
+                    "valid": null
+                }
+            ]
+        }
+    }
+]
