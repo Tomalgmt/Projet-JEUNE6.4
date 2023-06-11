@@ -30,7 +30,7 @@
     </div>
     <br>
     <div>
-        <img src="partenaires.png" class="partenairepartenaire">
+        <img src="images/partenaires.png" class="partenairepartenaire">
     </div>
     <div style="margin-left: 30%; margin-top: 1%;">
         <a  class="partenairebottomtext">...qui ont décidé de mettre en commun leurs actions pour les jeunes
