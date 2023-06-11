@@ -101,7 +101,7 @@ $fichierJson = "fichier_identifiant.json";
 
 $nomjeune = $_SESSION["nom"];
 $prenomjeune = $_SESSION["prenom"];
-$datejeune = $_SESSION["date"];
+$datejeune = $_SESSION["naissance"];
 $mailjeune = $_SESSION["mail"];
     if (isset($_POST["envoyer"])) {
         
