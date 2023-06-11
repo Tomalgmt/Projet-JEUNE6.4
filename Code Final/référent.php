@@ -12,7 +12,7 @@
     <body>
     <!-- On divise la bannière en plusieurs div pour faciliter le css-->
     <div class="banniere">
-        <img src="logoprojetjeunes6_4/LOGOS_JEUNES_1.png"><!-- le logo -->
+        <img src="LOGOS_JEUNES_1.png"><!-- le logo -->
         <div class="bannieretexteréférent">
             <h1 style="text-align: right;">REFERENT</h1>  <!-- le nom du module -->
         </div>
@@ -26,8 +26,8 @@
         <div class="Référentbuttonpage">
             <p class="Référentbutton">REFERENT</p><!-- on rajoute un paragraphe car sur la page le bouton à un aspect différent des autres -->
         </div>
-        <a class="Consultantbutton" href="Consultant.html">CONSULTANT</a>
-        <a class="Partenairebutton" href="partenaires.html">PARTENAIRE</a>
+        <a class="Consultantbutton" href="Consultant.php">CONSULTANT</a>
+        <a class="Partenairebutton" href="Partenaires.php">PARTENAIRE</a>
     </div>
 
 
