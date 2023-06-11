@@ -9,7 +9,7 @@
 
 <body>
     <div class="banniere">
-        <img src="LOGOS_JEUNES_1.png" class="partenairelogo" width="300px" style="margin-left: 2%;">
+        <img src="images/LOGOS_JEUNES_1.png" class="partenairelogo" width="300px" style="margin-left: 2%;">
         <div class="bannieretextepartenaire">
             <a>PARTENAIRES  </a>
         </div>
