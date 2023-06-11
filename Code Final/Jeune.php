@@ -30,7 +30,7 @@ session_start();
     <a class="Partenaire" href="Partenaires.php">PARTENAIRES</a>
 </div><br><br>
 
-<form action="accueil_jeune.php" method="POST">
+<form action="Jeune.php" method="POST">
   <div id="formulaire_jeune">
     <a class="texte1"> Veuillez remplir vos informations </a> <br>
     <div class="info">
