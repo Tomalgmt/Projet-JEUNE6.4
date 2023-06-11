@@ -42,13 +42,13 @@ session_start(); //securité
 
     <div class="envoi">
     <img src="images/ok.png" alt="" >
-    <a class="boutons" href= "Jeune.php">Faire valider ses références</button></a>
+    <a class="boutons" href= "Envoi.php">Faire valider ses références</button></a>
     </div>
 </div>   
 <div class="actions_jeunes2">
     <div class="inclure">
     <img src="images/bag.png" alt="" >
-    <a class="boutons" href= "Jeune.php">Inclure les références dans le CV</button></a>
+    <a class="boutons" href= "inclure.php">Inclure les références dans le CV</button></a>
     </div>
     <div class="profil">
     <img src="images/profile.png" alt="" >
