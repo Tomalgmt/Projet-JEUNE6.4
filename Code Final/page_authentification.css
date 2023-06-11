@@ -1,0 +1,145 @@
+.fond{
+    background-color: #f8f0f4;
+}
+.inscription {
+    position: relative;
+  }
+.titre_inscription{
+    position: absolute;
+    margin-left: 38px;
+   margin-top: 10px;
+}
+
+
+
+
+/*****************************Connexion**************************************/
+.Formulaire_Connexion{
+    background-color: white;
+    position: absolute; 
+    top: 50%; 
+    left: 50%;  
+    width: 400px;
+    height: 400px;
+    transform: translate(-50%, -50%);  
+    border: 2px solid;
+}
+
+.texte_connexion{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.message_erreur {
+    position: absolute;
+    color: red;
+    font-size: 13px;
+    margin-top: 10px;
+    margin-left: 40px;
+    top: 65%;
+    font-style: italic;
+  }
+
+.champ_connexion{
+    margin-left: 40px;
+    margin-top: 30px;
+    margin-bottom: 10px;  
+    height: 40px;
+    font-size: 1em;
+    width: 80%;
+    border: 1px solid #2596be;
+    border-radius: 5px;
+
+  }
+
+.bouton_connexion{
+    position: absolute;
+    top: 93%;
+    left:69%;
+    background-color: #2596be;
+    color: #fff;
+    border: none;
+    padding: 10px 30px;  
+    cursor: pointer;
+}
+  
+.confirmer_connexion{
+    position: absolute;
+    top: 80%;
+    left:57%;
+    background-color: #2596be;
+    color: #fff;
+    border: none;
+    padding: 10px 30px;     
+    cursor: pointer;
+      
+}
+
+
+
+/***************************Inscription*************************/
+
+.bouton_inscription {
+    position: absolute;
+    top: 105%;
+    font-size: 15px;
+    padding: 10px 10px;
+    border: 1px solid #191e20;
+    cursor: pointer;
+  }
+
+
+.Formulaire_Inscription{
+    background-color: white;
+    position: absolute;  
+    top: 50%; 
+    left: 50%;  
+    width: 600px;
+    height: 600px;
+    transform: translate(-50%, -50%);  
+    border: 2px solid;
+}
+
+.champ_inscription{
+    position: relative;
+    margin-left: 40px;
+    margin-top: 30px;
+    margin-bottom: 10px;  
+    height: 40px;
+    font-size: 1em;
+    width: 80%;
+    border: 1px solid #2596be;
+    border-radius: 5px;
+  
+}
+
+
+.bouton_confirmer_inscription{
+    position: absolute;
+    top: 93%;
+    left:69%;
+    background-color: #2596be;
+    color: #fff;
+    border: none;
+    padding: 10px 30px;
+    cursor: pointer;
+      
+}
+
+
+.texte_inscription{
+    font-size: 12px;
+    margin-left: 40px;
+    margin-top: 20px;
+
+}
+
+.message_erreur_inscription{
+    position: absolute;
+    color: red;
+    font-size: 13px;
+    margin-top: 10px;
+    margin-left: 40px;
+    top: 70%;
+    font-style: italic;
+}
