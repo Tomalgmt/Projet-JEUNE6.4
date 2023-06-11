@@ -37,7 +37,7 @@ session_start(); //securité
 
     <div class="consultation">
     <img src="images/liste.png" alt="" >
-    <a class="boutons" href= "Consultatant.php">Consulter la liste de références</button></a>
+    <a class="boutons" href= "Consultant.php">Consulter la liste de références</button></a>
     </div>
 
     <div class="envoi">
